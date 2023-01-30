@@ -8,6 +8,5 @@ printf("the maximum and minimum are%d%d respectively",max,min);
 return;
 }
 
-
 OUTPUT:
 the maximum and minimum are 5 3 respectively
